@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\IEnumerator_es_IEnumerable\bin\Debug\IEnumerator_es_IEnumerable.exe
+C:\Users\admin\source\repos\IEnumerator_es_IEnumerable\bin\Debug\IEnumerator_es_IEnumerable.pdb
+C:\Users\admin\source\repos\IEnumerator_es_IEnumerable\obj\Debug\IEnumerator_es_IEnumerable.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\IEnumerator_es_IEnumerable\obj\Debug\IEnumerator_es_IEnumerable.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\IEnumerator_es_IEnumerable\obj\Debug\IEnumerator_es_IEnumerable.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\IEnumerator_es_IEnumerable\obj\Debug\IEnumerator_es_IEnumerable.exe
+C:\Users\admin\source\repos\IEnumerator_es_IEnumerable\obj\Debug\IEnumerator_es_IEnumerable.pdb
