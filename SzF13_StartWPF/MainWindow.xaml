@@ -1,0 +1,25 @@
+﻿<Window x:Class="SzF13_StartWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SzF13_StartWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" ResizeMode="CanMinimize">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="35*"/>
+            <ColumnDefinition Width="17*"/>
+            <ColumnDefinition Width="75*"/>
+            <ColumnDefinition Width="55*"/>
+            <ColumnDefinition Width="32*"/>
+            <ColumnDefinition Width="41*"/>
+            <ColumnDefinition Width="50*"/>
+            <ColumnDefinition Width="53*"/>
+            <ColumnDefinition Width="442*"/>
+        </Grid.ColumnDefinitions>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="10,23,0,0" VerticalAlignment="Top" Height="73" Width="206" RenderTransformOrigin="0.481,0.321" FontStyle="Italic" FontFamily="Edwardian Script ITC" FontSize="48" FontWeight="Bold" Click="Button_Click" Grid.ColumnSpan="6"/>
+        <TextBox x:Name="szovegmezo" HorizontalAlignment="Left" Margin="18,112,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="190" Height="38" IsReadOnly="True" Grid.ColumnSpan="5"/>
+
+    </Grid>
+</Window>
