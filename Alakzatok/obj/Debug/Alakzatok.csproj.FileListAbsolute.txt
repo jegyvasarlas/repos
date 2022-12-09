@@ -1,0 +1,8 @@
+C:\Users\admin\source\repos\Alakzatok\bin\Debug\Alakzatok.exe.config
+C:\Users\admin\source\repos\Alakzatok\bin\Debug\Alakzatok.exe
+C:\Users\admin\source\repos\Alakzatok\bin\Debug\Alakzatok.pdb
+C:\Users\admin\source\repos\Alakzatok\obj\Debug\Alakzatok.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Alakzatok\obj\Debug\Alakzatok.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\Alakzatok\obj\Debug\Alakzatok.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Alakzatok\obj\Debug\Alakzatok.exe
+C:\Users\admin\source\repos\Alakzatok\obj\Debug\Alakzatok.pdb

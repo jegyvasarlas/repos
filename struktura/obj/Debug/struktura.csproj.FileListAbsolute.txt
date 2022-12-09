@@ -1,0 +1,8 @@
+C:\Users\admin\source\repos\struktura\bin\Debug\struktura.exe.config
+C:\Users\admin\source\repos\struktura\bin\Debug\struktura.exe
+C:\Users\admin\source\repos\struktura\bin\Debug\struktura.pdb
+C:\Users\admin\source\repos\struktura\obj\Debug\struktura.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\struktura\obj\Debug\struktura.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\struktura\obj\Debug\struktura.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\struktura\obj\Debug\struktura.exe
+C:\Users\admin\source\repos\struktura\obj\Debug\struktura.pdb

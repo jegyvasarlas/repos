@@ -1,0 +1,8 @@
+C:\Users\admin\source\repos\OroklesiTipusok2\bin\Debug\OroklesiTipusok2.exe.config
+C:\Users\admin\source\repos\OroklesiTipusok2\bin\Debug\OroklesiTipusok2.exe
+C:\Users\admin\source\repos\OroklesiTipusok2\bin\Debug\OroklesiTipusok2.pdb
+C:\Users\admin\source\repos\OroklesiTipusok2\obj\Debug\OroklesiTipusok2.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\OroklesiTipusok2\obj\Debug\OroklesiTipusok2.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\OroklesiTipusok2\obj\Debug\OroklesiTipusok2.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\OroklesiTipusok2\obj\Debug\OroklesiTipusok2.exe
+C:\Users\admin\source\repos\OroklesiTipusok2\obj\Debug\OroklesiTipusok2.pdb

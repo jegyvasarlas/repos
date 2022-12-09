@@ -1,0 +1,8 @@
+C:\Users\admin\source\repos\haromszog\bin\Debug\haromszog.exe.config
+C:\Users\admin\source\repos\haromszog\bin\Debug\haromszog.exe
+C:\Users\admin\source\repos\haromszog\bin\Debug\haromszog.pdb
+C:\Users\admin\source\repos\haromszog\obj\Debug\haromszog.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\haromszog\obj\Debug\haromszog.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\haromszog\obj\Debug\haromszog.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\haromszog\obj\Debug\haromszog.exe
+C:\Users\admin\source\repos\haromszog\obj\Debug\haromszog.pdb

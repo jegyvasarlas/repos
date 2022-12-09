@@ -1,0 +1,8 @@
+C:\Users\admin\source\repos\oop_teszt_10_03\bin\Debug\oop_teszt_10_03.exe.config
+C:\Users\admin\source\repos\oop_teszt_10_03\bin\Debug\oop_teszt_10_03.exe
+C:\Users\admin\source\repos\oop_teszt_10_03\bin\Debug\oop_teszt_10_03.pdb
+C:\Users\admin\source\repos\oop_teszt_10_03\obj\Debug\oop_teszt_10_03.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\oop_teszt_10_03\obj\Debug\oop_teszt_10_03.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\oop_teszt_10_03\obj\Debug\oop_teszt_10_03.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\oop_teszt_10_03\obj\Debug\oop_teszt_10_03.exe
+C:\Users\admin\source\repos\oop_teszt_10_03\obj\Debug\oop_teszt_10_03.pdb

@@ -1,0 +1,8 @@
+C:\Users\admin\source\repos\Enum teszt\bin\Debug\Enum teszt.exe.config
+C:\Users\admin\source\repos\Enum teszt\bin\Debug\Enum teszt.exe
+C:\Users\admin\source\repos\Enum teszt\bin\Debug\Enum teszt.pdb
+C:\Users\admin\source\repos\Enum teszt\obj\Debug\Enum teszt.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Enum teszt\obj\Debug\Enum teszt.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\Enum teszt\obj\Debug\Enum teszt.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Enum teszt\obj\Debug\Enum teszt.exe
+C:\Users\admin\source\repos\Enum teszt\obj\Debug\Enum teszt.pdb

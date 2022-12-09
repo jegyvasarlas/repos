@@ -1,0 +1,9 @@
+C:\Users\admin\source\repos\tarsalgo\bin\Debug\Properties\ajto.txt
+C:\Users\admin\source\repos\tarsalgo\bin\Debug\tarsalgo.exe.config
+C:\Users\admin\source\repos\tarsalgo\bin\Debug\tarsalgo.exe
+C:\Users\admin\source\repos\tarsalgo\bin\Debug\tarsalgo.pdb
+C:\Users\admin\source\repos\tarsalgo\obj\Debug\tarsalgo.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\tarsalgo\obj\Debug\tarsalgo.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\tarsalgo\obj\Debug\tarsalgo.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\tarsalgo\obj\Debug\tarsalgo.exe
+C:\Users\admin\source\repos\tarsalgo\obj\Debug\tarsalgo.pdb

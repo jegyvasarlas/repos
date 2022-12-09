@@ -1,0 +1,9 @@
+C:\Users\admin\source\repos\erettsegi_0930_pentek\bin\Debug\Properties\kerites.txt
+C:\Users\admin\source\repos\erettsegi_0930_pentek\bin\Debug\erettsegi_0930_pentek.exe.config
+C:\Users\admin\source\repos\erettsegi_0930_pentek\bin\Debug\erettsegi_0930_pentek.exe
+C:\Users\admin\source\repos\erettsegi_0930_pentek\bin\Debug\erettsegi_0930_pentek.pdb
+C:\Users\admin\source\repos\erettsegi_0930_pentek\obj\Debug\erettsegi_0930_pentek.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\erettsegi_0930_pentek\obj\Debug\erettsegi_0930_pentek.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\erettsegi_0930_pentek\obj\Debug\erettsegi_0930_pentek.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\erettsegi_0930_pentek\obj\Debug\erettsegi_0930_pentek.exe
+C:\Users\admin\source\repos\erettsegi_0930_pentek\obj\Debug\erettsegi_0930_pentek.pdb

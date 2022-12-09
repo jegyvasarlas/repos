@@ -1,0 +1,8 @@
+C:\Users\admin\source\repos\sept27\bin\Debug\sept27.exe.config
+C:\Users\admin\source\repos\sept27\bin\Debug\sept27.exe
+C:\Users\admin\source\repos\sept27\bin\Debug\sept27.pdb
+C:\Users\admin\source\repos\sept27\obj\Debug\sept27.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\sept27\obj\Debug\sept27.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\sept27\obj\Debug\sept27.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\sept27\obj\Debug\sept27.exe
+C:\Users\admin\source\repos\sept27\obj\Debug\sept27.pdb

@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\ConsoleApp8\bin\Debug\net6.0\ConsoleApp8.exe
+C:\Users\admin\source\repos\ConsoleApp8\bin\Debug\net6.0\ConsoleApp8.deps.json
+C:\Users\admin\source\repos\ConsoleApp8\bin\Debug\net6.0\ConsoleApp8.runtimeconfig.json
+C:\Users\admin\source\repos\ConsoleApp8\bin\Debug\net6.0\ConsoleApp8.dll
+C:\Users\admin\source\repos\ConsoleApp8\bin\Debug\net6.0\ConsoleApp8.pdb
+C:\Users\admin\source\repos\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.AssemblyInfo.cs
+C:\Users\admin\source\repos\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.dll
+C:\Users\admin\source\repos\ConsoleApp8\obj\Debug\net6.0\refint\ConsoleApp8.dll
+C:\Users\admin\source\repos\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.pdb
+C:\Users\admin\source\repos\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.genruntimeconfig.cache
+C:\Users\admin\source\repos\ConsoleApp8\obj\Debug\net6.0\ref\ConsoleApp8.dll

@@ -1,0 +1,30 @@
+év;autóversenyző;autó típus;motorversenyző;motor típus;kamionversenyző;kamion típus
+1991;Finnország Ari Vatanen;Citroën ZX;Franciaország Stéphane Peterhansel;Yamaha YZE750T;Franciaország Jacques Houssat;Perlini
+1992;Franciaország Hubert Auriol;Mitsubishi Pajero;Franciaország Stéphane Peterhansel;Yamaha YZE850T;Olaszország Francesco Perlini;Perlini
+1993;Franciaország Bruno Saby;Mitsubishi Pajero;Franciaország Stéphane Peterhansel;Yamaha YZE850T;Olaszország Francesco Perlini;Perlini
+1994;Franciaország Pierre Lartigue;Citroën ZX;Olaszország Edi Orioli;Cagiva Elefant 900;Csehország Karel Loprais;Tatra
+1995;Franciaország Pierre Lartigue;Citroën ZX;Franciaország Stéphane Peterhansel;Yamaha YZE850T;Csehország Karel Loprais;Tatra
+1996;Franciaország Pierre Lartigue;Citroën ZX;Olaszország Edi Orioli;Yamaha YZE850T;Oroszország Viktor Moskovskikh;Kamaz
+1997;Japán Sinodzuka Kendzsiró;Mitsubishi Pajero;Franciaország Stéphane Peterhansel;Yamaha YZE850T;Ausztria Peter Reif;Hino
+1998;Franciaország Jean-Pierre Fontenay;Mitsubishi Pajero;Franciaország Stéphane Peterhansel;Yamaha YZE850T;Csehország Karel Loprais;Tatra
+1999;Franciaország Jean-Louis Schlesser;Schlesser-Renault Buggy;Franciaország Richard Sainct;BMW F650RR;Csehország Karel Loprais;Tatra
+2000;Franciaország Jean-Louis Schlesser;Schlesser-Renault Buggy;Franciaország Richard Sainct;BMW F650RR;Oroszország Vlagyimir Csagin;Kamaz
+2001;Németország Jutta Kleinschmidt;Mitsubishi Pajero;Olaszország Fabrizio Meoni;KTM LC4 660R;Csehország Karel Loprais;Tatra
+2002;Japán Maszuoka Hirosi;Mitsubishi Pajero;Olaszország Fabrizio Meoni;KTM LC8 950R;Oroszország Vlagyimir Csagin;Kamaz
+2003;Japán Maszuoka Hirosi;Mitsubishi Pajero;Franciaország Richard Sainct;KTM LC4 660R;Oroszország Vlagyimir Csagin;Kamaz
+2004;Franciaország Stéphane Peterhansel;Mitsubishi Pajero;Spanyolország Nani Roma;KTM LC4 660R;Oroszország Vlagyimir Csagin;Kamaz
+2005;Franciaország Stéphane Peterhansel;Mitsubishi Pajero;Franciaország Cyril Despres;KTM LC4 660R;Oroszország Firdaus Kabirov;Kamaz
+2006;Franciaország Luc Alphand;Mitsubishi Pajero;Spanyolország Marc Coma;KTM LC4 660R;Oroszország Vlagyimir Csagin;Kamaz
+2007;Franciaország Stéphane Peterhansel;Mitsubishi Pajero;Franciaország Cyril Despres;KTM 690 Rally;Hollandia Hans Stacey;MAN
+2009;Dél-Afrika Giniel de-Villiers;Volkswagen Touareg;Spanyolország Marc Coma;KTM 690 Rally;Oroszország Firdaus Kabirov;Kamaz
+2010;Spanyolország Carlos Sainz;Volkswagen Touareg;Franciaország Cyril Despres;KTM 690 Rally;Oroszország Vlagyimir Csagin;Kamaz
+2011;Katar Nászer el-Attija;Volkswagen Touareg;Spanyolország Marc Coma;KTM 450 Rally;Oroszország Vlagyimir Csagin;Kamaz
+2012;Franciaország Stéphane Peterhansel;MINI;Franciaország Cyril Despres;KTM 450 Rally;Hollandia Gerard de-Rooy;Iveco
+2013;Franciaország Stéphane Peterhansel;MINI;Franciaország Cyril Despres;KTM 450 Rally;Oroszország Eduard Nyikolajev;Kamaz
+2014;Spanyolország Nani Roma;MINI;Spanyolország Marc Coma;KTM 450 Rally;Oroszország Andrej Karginov;Kamaz
+2015;Katar Nászer el-Attija;MINI;Spanyolország Marc Coma;KTM 450 Rally;Oroszország Ajrat Mardejev;Kamaz
+2016;Franciaország Stéphane Peterhansel;Peugeot 2008 DKR;Ausztrália Toby Price;KTM 450 Rally;Hollandia Gerard de-Rooy;Iveco PowerStar
+2017;Franciaország Stéphane Peterhansel;Peugeot 3008 DKR;Nagy-Britannia Sam Sunderland;KTM 450 Rally;Oroszország Eduard Nyikolajev;Kamaz
+2018;Spanyolország Carlos Sainz;Team Peugeot Total;Ausztria Matthias Walkner;Red Bull KTM Factory Racing;Oroszország Eduard Nyikolajev;Kamaz
+2019;Katar Nászer el-Attija;Toyota Hilux Dakar;Ausztrália Toby Price;KTM 450 Rally;Oroszország Eduard Nyikolajev;Kamaz
+2020;Spanyolország Carlos Sainz;Bahrain JCW X-Raid Team;USA Ricky Brabec;Honda;Oroszország Andrej Karginov;Kamaz

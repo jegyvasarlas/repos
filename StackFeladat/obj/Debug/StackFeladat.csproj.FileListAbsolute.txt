@@ -1,0 +1,8 @@
+C:\Users\admin\source\repos\StackFeladat\bin\Debug\StackFeladat.exe.config
+C:\Users\admin\source\repos\StackFeladat\bin\Debug\StackFeladat.exe
+C:\Users\admin\source\repos\StackFeladat\bin\Debug\StackFeladat.pdb
+C:\Users\admin\source\repos\StackFeladat\obj\Debug\StackFeladat.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\StackFeladat\obj\Debug\StackFeladat.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\StackFeladat\obj\Debug\StackFeladat.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\StackFeladat\obj\Debug\StackFeladat.exe
+C:\Users\admin\source\repos\StackFeladat\obj\Debug\StackFeladat.pdb

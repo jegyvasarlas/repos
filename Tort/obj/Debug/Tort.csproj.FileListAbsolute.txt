@@ -1,0 +1,8 @@
+C:\Users\admin\source\repos\Tort\bin\Debug\Tort.exe.config
+C:\Users\admin\source\repos\Tort\bin\Debug\Tort.exe
+C:\Users\admin\source\repos\Tort\bin\Debug\Tort.pdb
+C:\Users\admin\source\repos\Tort\obj\Debug\Tort.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Tort\obj\Debug\Tort.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\Tort\obj\Debug\Tort.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Tort\obj\Debug\Tort.exe
+C:\Users\admin\source\repos\Tort\obj\Debug\Tort.pdb

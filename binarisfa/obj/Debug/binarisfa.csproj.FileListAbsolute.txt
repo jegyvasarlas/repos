@@ -1,0 +1,8 @@
+C:\Users\admin\source\repos\binarisfa\obj\Debug\binarisfa.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\binarisfa\obj\Debug\binarisfa.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\binarisfa\obj\Debug\binarisfa.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\binarisfa\bin\Debug\binarisfa.exe.config
+C:\Users\admin\source\repos\binarisfa\bin\Debug\binarisfa.exe
+C:\Users\admin\source\repos\binarisfa\bin\Debug\binarisfa.pdb
+C:\Users\admin\source\repos\binarisfa\obj\Debug\binarisfa.exe
+C:\Users\admin\source\repos\binarisfa\obj\Debug\binarisfa.pdb

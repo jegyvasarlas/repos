@@ -1,0 +1,8 @@
+C:\Users\admin\source\repos\ellenorzes\bin\Debug\ellenorzes.exe.config
+C:\Users\admin\source\repos\ellenorzes\bin\Debug\ellenorzes.exe
+C:\Users\admin\source\repos\ellenorzes\bin\Debug\ellenorzes.pdb
+C:\Users\admin\source\repos\ellenorzes\obj\Debug\ellenorzes.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\ellenorzes\obj\Debug\ellenorzes.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\ellenorzes\obj\Debug\ellenorzes.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ellenorzes\obj\Debug\ellenorzes.exe
+C:\Users\admin\source\repos\ellenorzes\obj\Debug\ellenorzes.pdb

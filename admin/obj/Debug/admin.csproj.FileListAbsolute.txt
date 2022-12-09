@@ -1,0 +1,8 @@
+C:\Users\admin\source\repos\admin\bin\Debug\admin.exe.config
+C:\Users\admin\source\repos\admin\bin\Debug\admin.exe
+C:\Users\admin\source\repos\admin\bin\Debug\admin.pdb
+C:\Users\admin\source\repos\admin\obj\Debug\admin.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\admin\obj\Debug\admin.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\admin\obj\Debug\admin.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\admin\obj\Debug\admin.exe
+C:\Users\admin\source\repos\admin\obj\Debug\admin.pdb

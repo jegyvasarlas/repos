@@ -1,0 +1,8 @@
+C:\Users\admin\source\repos\Kivetelkezeles\bin\Debug\Kivetelkezeles.exe.config
+C:\Users\admin\source\repos\Kivetelkezeles\bin\Debug\Kivetelkezeles.exe
+C:\Users\admin\source\repos\Kivetelkezeles\bin\Debug\Kivetelkezeles.pdb
+C:\Users\admin\source\repos\Kivetelkezeles\obj\Debug\Kivetelkezeles.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Kivetelkezeles\obj\Debug\Kivetelkezeles.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\Kivetelkezeles\obj\Debug\Kivetelkezeles.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Kivetelkezeles\obj\Debug\Kivetelkezeles.exe
+C:\Users\admin\source\repos\Kivetelkezeles\obj\Debug\Kivetelkezeles.pdb

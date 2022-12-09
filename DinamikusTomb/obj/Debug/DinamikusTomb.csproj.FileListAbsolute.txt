@@ -1,0 +1,8 @@
+C:\Users\admin\source\repos\DinamikusTomb\bin\Debug\DinamikusTomb.exe.config
+C:\Users\admin\source\repos\DinamikusTomb\bin\Debug\DinamikusTomb.exe
+C:\Users\admin\source\repos\DinamikusTomb\bin\Debug\DinamikusTomb.pdb
+C:\Users\admin\source\repos\DinamikusTomb\obj\Debug\DinamikusTomb.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\DinamikusTomb\obj\Debug\DinamikusTomb.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\DinamikusTomb\obj\Debug\DinamikusTomb.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\DinamikusTomb\obj\Debug\DinamikusTomb.exe
+C:\Users\admin\source\repos\DinamikusTomb\obj\Debug\DinamikusTomb.pdb

@@ -1,0 +1,8 @@
+C:\Users\admin\source\repos\FociVB\bin\Debug\FociVB.exe.config
+C:\Users\admin\source\repos\FociVB\bin\Debug\FociVB.exe
+C:\Users\admin\source\repos\FociVB\bin\Debug\FociVB.pdb
+C:\Users\admin\source\repos\FociVB\obj\Debug\FociVB.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\FociVB\obj\Debug\FociVB.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\FociVB\obj\Debug\FociVB.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\FociVB\obj\Debug\FociVB.exe
+C:\Users\admin\source\repos\FociVB\obj\Debug\FociVB.pdb

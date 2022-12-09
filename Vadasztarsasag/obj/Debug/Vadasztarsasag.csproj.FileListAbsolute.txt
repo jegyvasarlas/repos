@@ -1,0 +1,8 @@
+C:\Users\admin\source\repos\Vadasztarsasag\obj\Debug\Vadasztarsasag.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Vadasztarsasag\obj\Debug\Vadasztarsasag.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\Vadasztarsasag\obj\Debug\Vadasztarsasag.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Vadasztarsasag\bin\Debug\Vadasztarsasag.exe.config
+C:\Users\admin\source\repos\Vadasztarsasag\bin\Debug\Vadasztarsasag.exe
+C:\Users\admin\source\repos\Vadasztarsasag\bin\Debug\Vadasztarsasag.pdb
+C:\Users\admin\source\repos\Vadasztarsasag\obj\Debug\Vadasztarsasag.exe
+C:\Users\admin\source\repos\Vadasztarsasag\obj\Debug\Vadasztarsasag.pdb

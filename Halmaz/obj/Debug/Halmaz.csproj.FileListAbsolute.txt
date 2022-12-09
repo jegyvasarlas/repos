@@ -1,0 +1,8 @@
+C:\Users\admin\source\repos\Halmaz\bin\Debug\Halmaz.exe.config
+C:\Users\admin\source\repos\Halmaz\bin\Debug\Halmaz.exe
+C:\Users\admin\source\repos\Halmaz\bin\Debug\Halmaz.pdb
+C:\Users\admin\source\repos\Halmaz\obj\Debug\Halmaz.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Halmaz\obj\Debug\Halmaz.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\Halmaz\obj\Debug\Halmaz.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Halmaz\obj\Debug\Halmaz.exe
+C:\Users\admin\source\repos\Halmaz\obj\Debug\Halmaz.pdb

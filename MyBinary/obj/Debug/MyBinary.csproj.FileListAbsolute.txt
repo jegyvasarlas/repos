@@ -1,0 +1,8 @@
+C:\Users\admin\source\repos\MyBinary\bin\Debug\MyBinary.exe.config
+C:\Users\admin\source\repos\MyBinary\bin\Debug\MyBinary.exe
+C:\Users\admin\source\repos\MyBinary\bin\Debug\MyBinary.pdb
+C:\Users\admin\source\repos\MyBinary\obj\Debug\MyBinary.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\MyBinary\obj\Debug\MyBinary.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\MyBinary\obj\Debug\MyBinary.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\MyBinary\obj\Debug\MyBinary.exe
+C:\Users\admin\source\repos\MyBinary\obj\Debug\MyBinary.pdb

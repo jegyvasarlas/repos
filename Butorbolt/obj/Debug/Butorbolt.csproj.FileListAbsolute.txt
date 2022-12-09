@@ -1,0 +1,8 @@
+C:\Users\admin\source\repos\Butorbolt\bin\Debug\Butorbolt.exe.config
+C:\Users\admin\source\repos\Butorbolt\bin\Debug\Butorbolt.exe
+C:\Users\admin\source\repos\Butorbolt\bin\Debug\Butorbolt.pdb
+C:\Users\admin\source\repos\Butorbolt\obj\Debug\Butorbolt.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Butorbolt\obj\Debug\Butorbolt.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\Butorbolt\obj\Debug\Butorbolt.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Butorbolt\obj\Debug\Butorbolt.exe
+C:\Users\admin\source\repos\Butorbolt\obj\Debug\Butorbolt.pdb

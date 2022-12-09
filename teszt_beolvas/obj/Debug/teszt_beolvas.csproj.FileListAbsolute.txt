@@ -1,0 +1,9 @@
+C:\Users\admin\source\repos\teszt_beolvas\bin\Debug\Properties\file.txt
+C:\Users\admin\source\repos\teszt_beolvas\bin\Debug\teszt_beolvas.exe.config
+C:\Users\admin\source\repos\teszt_beolvas\bin\Debug\teszt_beolvas.exe
+C:\Users\admin\source\repos\teszt_beolvas\bin\Debug\teszt_beolvas.pdb
+C:\Users\admin\source\repos\teszt_beolvas\obj\Debug\teszt_beolvas.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\teszt_beolvas\obj\Debug\teszt_beolvas.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\teszt_beolvas\obj\Debug\teszt_beolvas.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\teszt_beolvas\obj\Debug\teszt_beolvas.exe
+C:\Users\admin\source\repos\teszt_beolvas\obj\Debug\teszt_beolvas.pdb

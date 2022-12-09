@@ -1,0 +1,8 @@
+C:\Users\admin\source\repos\String_Cucc\bin\Debug\String_Cucc.exe.config
+C:\Users\admin\source\repos\String_Cucc\bin\Debug\String_Cucc.exe
+C:\Users\admin\source\repos\String_Cucc\bin\Debug\String_Cucc.pdb
+C:\Users\admin\source\repos\String_Cucc\obj\Debug\String_Cucc.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\String_Cucc\obj\Debug\String_Cucc.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\String_Cucc\obj\Debug\String_Cucc.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\String_Cucc\obj\Debug\String_Cucc.exe
+C:\Users\admin\source\repos\String_Cucc\obj\Debug\String_Cucc.pdb

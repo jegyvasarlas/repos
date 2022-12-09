@@ -1,0 +1,9 @@
+C:\Users\admin\source\repos\Dakar\bin\Debug\dakar.txt
+C:\Users\admin\source\repos\Dakar\bin\Debug\Dakar.exe.config
+C:\Users\admin\source\repos\Dakar\bin\Debug\Dakar.exe
+C:\Users\admin\source\repos\Dakar\bin\Debug\Dakar.pdb
+C:\Users\admin\source\repos\Dakar\obj\Debug\Dakar.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Dakar\obj\Debug\Dakar.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\Dakar\obj\Debug\Dakar.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Dakar\obj\Debug\Dakar.exe
+C:\Users\admin\source\repos\Dakar\obj\Debug\Dakar.pdb

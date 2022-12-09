@@ -1,0 +1,8 @@
+C:\Users\admin\source\repos\OroklodesFeladat\bin\Debug\OroklodesFeladat.exe.config
+C:\Users\admin\source\repos\OroklodesFeladat\bin\Debug\OroklodesFeladat.exe
+C:\Users\admin\source\repos\OroklodesFeladat\bin\Debug\OroklodesFeladat.pdb
+C:\Users\admin\source\repos\OroklodesFeladat\obj\Debug\OroklodesFeladat.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\OroklodesFeladat\obj\Debug\OroklodesFeladat.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\OroklodesFeladat\obj\Debug\OroklodesFeladat.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\OroklodesFeladat\obj\Debug\OroklodesFeladat.exe
+C:\Users\admin\source\repos\OroklodesFeladat\obj\Debug\OroklodesFeladat.pdb
