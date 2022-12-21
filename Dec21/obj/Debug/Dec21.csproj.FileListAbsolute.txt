@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\Dec21\bin\Debug\Dec21.exe
+C:\Users\admin\source\repos\Dec21\bin\Debug\Dec21.pdb
+C:\Users\admin\source\repos\Dec21\obj\Debug\Dec21.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Dec21\obj\Debug\Dec21.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\Dec21\obj\Debug\Dec21.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Dec21\obj\Debug\Dec21.exe
+C:\Users\admin\source\repos\Dec21\obj\Debug\Dec21.pdb
