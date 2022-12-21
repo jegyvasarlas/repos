@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\Dec1214\bin\Debug\Dec1214.exe
+C:\Users\admin\source\repos\Dec1214\bin\Debug\Dec1214.pdb
+C:\Users\admin\source\repos\Dec1214\obj\Debug\Dec1214.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Dec1214\obj\Debug\Dec1214.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\Dec1214\obj\Debug\Dec1214.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Dec1214\obj\Debug\Dec1214.exe
+C:\Users\admin\source\repos\Dec1214\obj\Debug\Dec1214.pdb

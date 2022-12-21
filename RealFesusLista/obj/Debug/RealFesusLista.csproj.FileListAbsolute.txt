@@ -1,0 +1,8 @@
+C:\Users\admin\source\repos\RealFesusLista\bin\Debug\RealFesusLista.exe.config
+C:\Users\admin\source\repos\RealFesusLista\bin\Debug\RealFesusLista.exe
+C:\Users\admin\source\repos\RealFesusLista\bin\Debug\RealFesusLista.pdb
+C:\Users\admin\source\repos\RealFesusLista\obj\Debug\RealFesusLista.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\RealFesusLista\obj\Debug\RealFesusLista.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\RealFesusLista\obj\Debug\RealFesusLista.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\RealFesusLista\obj\Debug\RealFesusLista.exe
+C:\Users\admin\source\repos\RealFesusLista\obj\Debug\RealFesusLista.pdb

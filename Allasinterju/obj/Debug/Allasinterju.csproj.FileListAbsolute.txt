@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\Allasinterju\bin\Debug\Allasinterju.exe
+C:\Users\admin\source\repos\Allasinterju\bin\Debug\Allasinterju.pdb
+C:\Users\admin\source\repos\Allasinterju\obj\Debug\Allasinterju.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Allasinterju\obj\Debug\Allasinterju.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\Allasinterju\obj\Debug\Allasinterju.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Allasinterju\obj\Debug\Allasinterju.exe
+C:\Users\admin\source\repos\Allasinterju\obj\Debug\Allasinterju.pdb

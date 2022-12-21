@@ -1,0 +1,8 @@
+C:\Users\admin\source\repos\FesusLista\bin\Debug\FesusLista.exe.config
+C:\Users\admin\source\repos\FesusLista\bin\Debug\FesusLista.exe
+C:\Users\admin\source\repos\FesusLista\bin\Debug\FesusLista.pdb
+C:\Users\admin\source\repos\FesusLista\obj\Debug\FesusLista.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\FesusLista\obj\Debug\FesusLista.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\FesusLista\obj\Debug\FesusLista.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\FesusLista\obj\Debug\FesusLista.exe
+C:\Users\admin\source\repos\FesusLista\obj\Debug\FesusLista.pdb
