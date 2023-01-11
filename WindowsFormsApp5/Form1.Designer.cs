@@ -46,8 +46,11 @@
             this.button14 = new System.Windows.Forms.Button();
             this.button15 = new System.Windows.Forms.Button();
             this.button16 = new System.Windows.Forms.Button();
-            this.button17 = new System.Windows.Forms.Button();
+            this.reset = new System.Windows.Forms.Button();
             this.kijelzo = new System.Windows.Forms.TextBox();
+            this.button18 = new System.Windows.Forms.Button();
+            this.button19 = new System.Windows.Forms.Button();
+            this.button20 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // button1
@@ -226,16 +229,16 @@
             this.button16.UseVisualStyleBackColor = true;
             this.button16.Click += new System.EventHandler(this.GombNyomas);
             // 
-            // button17
+            // reset
             // 
-            this.button17.Font = new System.Drawing.Font("Arial Rounded MT Bold", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button17.Location = new System.Drawing.Point(13, 73);
-            this.button17.Name = "button17";
-            this.button17.Size = new System.Drawing.Size(74, 74);
-            this.button17.TabIndex = 16;
-            this.button17.Text = "C";
-            this.button17.UseVisualStyleBackColor = true;
-            this.button17.Click += new System.EventHandler(this.Torles);
+            this.reset.Font = new System.Drawing.Font("Arial Rounded MT Bold", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.reset.Location = new System.Drawing.Point(13, 73);
+            this.reset.Name = "reset";
+            this.reset.Size = new System.Drawing.Size(74, 74);
+            this.reset.TabIndex = 16;
+            this.reset.Text = "C";
+            this.reset.UseVisualStyleBackColor = true;
+            this.reset.Click += new System.EventHandler(this.Torles);
             // 
             // kijelzo
             // 
@@ -243,16 +246,49 @@
             this.kijelzo.Location = new System.Drawing.Point(12, 12);
             this.kijelzo.Name = "kijelzo";
             this.kijelzo.ReadOnly = true;
-            this.kijelzo.Size = new System.Drawing.Size(315, 41);
+            this.kijelzo.Size = new System.Drawing.Size(545, 41);
             this.kijelzo.TabIndex = 17;
+            // 
+            // button18
+            // 
+            this.button18.Location = new System.Drawing.Point(333, 73);
+            this.button18.Name = "button18";
+            this.button18.Size = new System.Drawing.Size(74, 74);
+            this.button18.TabIndex = 18;
+            this.button18.Text = "^";
+            this.button18.UseVisualStyleBackColor = true;
+            this.button18.Click += new System.EventHandler(this.GombNyomas);
+            // 
+            // button19
+            // 
+            this.button19.Location = new System.Drawing.Point(333, 157);
+            this.button19.Name = "button19";
+            this.button19.Size = new System.Drawing.Size(74, 74);
+            this.button19.TabIndex = 19;
+            this.button19.Text = "%";
+            this.button19.UseVisualStyleBackColor = true;
+            this.button19.Click += new System.EventHandler(this.GombNyomas);
+            // 
+            // button20
+            // 
+            this.button20.Location = new System.Drawing.Point(413, 73);
+            this.button20.Name = "button20";
+            this.button20.Size = new System.Drawing.Size(144, 74);
+            this.button20.TabIndex = 20;
+            this.button20.Text = "Backspace";
+            this.button20.UseVisualStyleBackColor = true;
+            this.button20.Click += new System.EventHandler(this.Backspace);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(339, 480);
+            this.ClientSize = new System.Drawing.Size(570, 480);
+            this.Controls.Add(this.button20);
+            this.Controls.Add(this.button19);
+            this.Controls.Add(this.button18);
             this.Controls.Add(this.kijelzo);
-            this.Controls.Add(this.button17);
+            this.Controls.Add(this.reset);
             this.Controls.Add(this.button16);
             this.Controls.Add(this.button15);
             this.Controls.Add(this.button14);
@@ -273,11 +309,18 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Margin = new System.Windows.Forms.Padding(5, 4, 5, 4);
+            this.MaximizeBox = false;
             this.Name = "Form1";
             this.Text = "Szamologep";
             this.ResumeLayout(false);
             this.PerformLayout();
         }
+
+        private System.Windows.Forms.Button button20;
+
+        private System.Windows.Forms.Button button19;
+
+        private System.Windows.Forms.Button button18;
 
         private System.Windows.Forms.Button button10;
         private System.Windows.Forms.Button button11;
@@ -286,7 +329,7 @@
         private System.Windows.Forms.Button button14;
         private System.Windows.Forms.Button button15;
         private System.Windows.Forms.Button button16;
-        private System.Windows.Forms.Button button17;
+        private System.Windows.Forms.Button reset;
         private System.Windows.Forms.TextBox kijelzo;
 
         private System.Windows.Forms.Button button2;
