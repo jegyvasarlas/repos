@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\dolgozatjan11\bin\Debug\dolgozatjan11.exe
+C:\Users\admin\source\repos\dolgozatjan11\bin\Debug\dolgozatjan11.pdb
+C:\Users\admin\source\repos\dolgozatjan11\obj\Debug\dolgozatjan11.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\dolgozatjan11\obj\Debug\dolgozatjan11.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\dolgozatjan11\obj\Debug\dolgozatjan11.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\dolgozatjan11\obj\Debug\dolgozatjan11.exe
+C:\Users\admin\source\repos\dolgozatjan11\obj\Debug\dolgozatjan11.pdb
