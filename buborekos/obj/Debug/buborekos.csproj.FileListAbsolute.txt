@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\buborekos\bin\Debug\buborekos.exe
+C:\Users\admin\source\repos\buborekos\bin\Debug\buborekos.pdb
+C:\Users\admin\source\repos\buborekos\obj\Debug\buborekos.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\buborekos\obj\Debug\buborekos.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\buborekos\obj\Debug\buborekos.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\buborekos\obj\Debug\buborekos.exe
+C:\Users\admin\source\repos\buborekos\obj\Debug\buborekos.pdb

@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\rendezok\bin\Debug\rendezok.exe.config
+C:\Users\admin\source\repos\rendezok\bin\Debug\rendezok.exe
+C:\Users\admin\source\repos\rendezok\bin\Debug\rendezok.pdb
+C:\Users\admin\source\repos\rendezok\obj\Debug\rendezok.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\rendezok\obj\Debug\rendezok.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\rendezok\obj\Debug\rendezok.Properties.Resources.resources
+C:\Users\admin\source\repos\rendezok\obj\Debug\rendezok.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\rendezok\obj\Debug\rendezok.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\rendezok\obj\Debug\rendezok.exe
+C:\Users\admin\source\repos\rendezok\obj\Debug\rendezok.pdb
+C:\Users\admin\source\repos\rendezok\obj\Debug\rendezok.Form1.resources

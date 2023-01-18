@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\lada\bin\Debug\lada.exe
+C:\Users\admin\source\repos\lada\bin\Debug\lada.pdb
+C:\Users\admin\source\repos\lada\obj\Debug\lada.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\lada\obj\Debug\lada.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\lada\obj\Debug\lada.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\lada\obj\Debug\lada.exe
+C:\Users\admin\source\repos\lada\obj\Debug\lada.pdb

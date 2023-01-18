@@ -5,24 +5,128 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aeb8e54f-18a1-419e-bf99-923c17ef9adb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../SzF13_RendezesekWinForm/.vs/SzF13_RendezesekWinForm/FileContentIndex/f53d7aba-f076-48ce-ba9a-021e709e10a7.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SzF13_RendezesekWinForm/.vs/SzF13_RendezesekWinForm/FileContentIndex/read.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SzF13_RendezesekWinForm/.vs/SzF13_RendezesekWinForm/v16/.suo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SzF13_RendezesekWinForm/.vs/SzF13_RendezesekWinForm/v17/.suo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SzF13_RendezesekWinForm/SzF13_RendezesekWinForm.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SzF13_RendezesekWinForm/SzF13_RendezesekWinForm/App.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SzF13_RendezesekWinForm/SzF13_RendezesekWinForm/Form1.Designer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SzF13_RendezesekWinForm/SzF13_RendezesekWinForm/Form1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SzF13_RendezesekWinForm/SzF13_RendezesekWinForm/Form1.resx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SzF13_RendezesekWinForm/SzF13_RendezesekWinForm/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SzF13_RendezesekWinForm/SzF13_RendezesekWinForm/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SzF13_RendezesekWinForm/SzF13_RendezesekWinForm/Properties/Resources.Designer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SzF13_RendezesekWinForm/SzF13_RendezesekWinForm/Properties/Resources.resx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SzF13_RendezesekWinForm/SzF13_RendezesekWinForm/Properties/Settings.Designer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SzF13_RendezesekWinForm/SzF13_RendezesekWinForm/Properties/Settings.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SzF13_RendezesekWinForm/SzF13_RendezesekWinForm/SzF13_RendezesekWinForm.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SzF13_RendezesekWinForm/SzF13_RendezesekWinForm/bin/Debug/SzF13_RendezesekWinForm.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SzF13_RendezesekWinForm/SzF13_RendezesekWinForm/bin/Debug/SzF13_RendezesekWinForm.exe.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SzF13_RendezesekWinForm/SzF13_RendezesekWinForm/bin/Debug/SzF13_RendezesekWinForm.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SzF13_RendezesekWinForm/SzF13_RendezesekWinForm/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SzF13_RendezesekWinForm/SzF13_RendezesekWinForm/obj/Debug/DesignTimeResolveAssemblyReferences.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SzF13_RendezesekWinForm/SzF13_RendezesekWinForm/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SzF13_RendezesekWinForm/SzF13_RendezesekWinForm/obj/Debug/SzF13_RendezesekWinForm.Form1.resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SzF13_RendezesekWinForm/SzF13_RendezesekWinForm/obj/Debug/SzF13_RendezesekWinForm.Properties.Resources.resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SzF13_RendezesekWinForm/SzF13_RendezesekWinForm/obj/Debug/SzF13_RendezesekWinForm.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SzF13_RendezesekWinForm/SzF13_RendezesekWinForm/obj/Debug/SzF13_RendezesekWinForm.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SzF13_RendezesekWinForm/SzF13_RendezesekWinForm/obj/Debug/SzF13_RendezesekWinForm.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SzF13_RendezesekWinForm/SzF13_RendezesekWinForm/obj/Debug/SzF13_RendezesekWinForm.csproj.GenerateResource.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SzF13_RendezesekWinForm/SzF13_RendezesekWinForm/obj/Debug/SzF13_RendezesekWinForm.csproj.SuggestedBindingRedirects.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SzF13_RendezesekWinForm/SzF13_RendezesekWinForm/obj/Debug/SzF13_RendezesekWinForm.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SzF13_RendezesekWinForm/SzF13_RendezesekWinForm/obj/Debug/SzF13_RendezesekWinForm.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../buborekos/.idea/.idea.buborekos/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../buborekos/bin/Debug/buborekos.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../buborekos/bin/Debug/buborekos.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../buborekos/obj/Debug/buborekos.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../buborekos/obj/Debug/buborekos.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../buborekos/obj/Debug/buborekos.csproj.SuggestedBindingRedirects.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../buborekos/obj/Debug/buborekos.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../buborekos/obj/Debug/buborekos.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lada/.idea/.idea.lada/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lada/.idea/.idea.lada/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lada/.idea/.idea.lada/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lada/.idea/.idea.lada/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lada/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lada/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lada/bin/Debug/lada.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lada/bin/Debug/lada.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lada/lada.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lada/lada.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lada/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lada/obj/Debug/lada.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lada/obj/Debug/lada.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lada/obj/Debug/lada.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lada/obj/Debug/lada.csproj.SuggestedBindingRedirects.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lada/obj/Debug/lada.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lada/obj/Debug/lada.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rendezok/.idea/.idea.rendezok/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rendezok/.idea/.idea.rendezok/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rendezok/.idea/.idea.rendezok/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rendezok/.idea/.idea.rendezok/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rendezok/.idea/.idea.rendezok/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rendezok/.vs/rendezok/FileContentIndex/7aec372f-8daa-4e08-8daf-791f5d3f1d8e.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rendezok/.vs/rendezok/FileContentIndex/read.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rendezok/.vs/rendezok/v17/.suo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rendezok/App.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rendezok/Form1.Designer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rendezok/Form1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rendezok/Form1.resx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rendezok/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rendezok/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rendezok/Properties/Resources.Designer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rendezok/Properties/Resources.resx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rendezok/Properties/Settings.Designer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rendezok/Properties/Settings.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rendezok/bin/Debug/rendezok.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rendezok/bin/Debug/rendezok.exe.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rendezok/bin/Debug/rendezok.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rendezok/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rendezok/obj/Debug/DesignTimeResolveAssemblyReferences.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rendezok/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rendezok/obj/Debug/rendezok.Form1.resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rendezok/obj/Debug/rendezok.Properties.Resources.resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rendezok/obj/Debug/rendezok.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rendezok/obj/Debug/rendezok.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rendezok/obj/Debug/rendezok.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rendezok/obj/Debug/rendezok.csproj.GenerateResource.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rendezok/obj/Debug/rendezok.csproj.SuggestedBindingRedirects.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rendezok/obj/Debug/rendezok.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rendezok/obj/Debug/rendezok.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rendezok/rendezok.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rendezok/rendezok.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buborekos/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../buborekos/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.gyorsrendezes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.gyorsrendezes/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gyorsrendezes/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/gyorsrendezes/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gyorsrendezes/bin/Debug/gyorsrendezes.exe" beforeDir="false" afterPath="$PROJECT_DIR$/gyorsrendezes/bin/Debug/gyorsrendezes.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gyorsrendezes/bin/Debug/gyorsrendezes.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/gyorsrendezes/bin/Debug/gyorsrendezes.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gyorsrendezes/obj/Debug/gyorsrendezes.exe" beforeDir="false" afterPath="$PROJECT_DIR$/gyorsrendezes/obj/Debug/gyorsrendezes.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gyorsrendezes/obj/Debug/gyorsrendezes.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/gyorsrendezes/obj/Debug/gyorsrendezes.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RESET_MODE" value="HARD" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectId" id="2KUlsuEZgbPCkh2IfvWMPHEsIi8" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -65,47 +169,38 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674037253752</updated>
-      <workItem from="1674037253960" duration="969000" />
+      <workItem from="1674037253960" duration="3865000" />
     </task>
+    <task id="LOCAL-00001" summary="stable">
+      <created>1674038353437</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674038353437</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
-  <component name="VcsManagerConfiguration">
-    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/gyorsrendezes/Program.cs</url>
-          <line>54</line>
-          <properties documentPath="C:\Users\admin\source\repos\gyorsrendezes\gyorsrendezes\Program.cs" initialLine="54" containingFunctionPresentation="method 'Main'">
-            <startOffsets>
-              <option value="1719" />
-            </startOffsets>
-            <endOffsets>
-              <option value="1763" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/gyorsrendezes/Program.cs</url>
-          <line>50</line>
-          <properties documentPath="C:\Users\admin\source\repos\gyorsrendezes\gyorsrendezes\Program.cs" initialLine="50" containingFunctionPresentation="method 'Main'">
-            <startOffsets>
-              <option value="1567" />
-            </startOffsets>
-            <endOffsets>
-              <option value="1600" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="stable" />
+    <option name="LAST_COMMIT_MESSAGE" value="stable" />
   </component>
 </project>

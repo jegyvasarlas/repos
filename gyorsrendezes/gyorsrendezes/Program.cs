@@ -44,15 +44,15 @@ namespace gyorsrendezes
     {
         public static void Main(string[] args)
         {
-            MyArray a = new MyArray(100000000);
+            MyArray a = new MyArray(100000);
             Random r = new Random();
             for (int i = 0; i < a.Length; ++i) {
                 a[i] = r.Next(Int32.MinValue, Int32.MaxValue); }
-            Console.WriteLine("Rendezés...");
+            Console.WriteLine("Rendezes...");
             DateTime start = DateTime.Now;
             a.Sort();
             DateTime end = DateTime.Now;
-            Console.WriteLine("Time: {0}", end - start);
+            Console.WriteLine("Ido: {0}", end - start);
         }
     }
 }
