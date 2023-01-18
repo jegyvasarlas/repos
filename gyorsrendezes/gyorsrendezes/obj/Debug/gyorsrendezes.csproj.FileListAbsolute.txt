@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\gyorsrendezes\gyorsrendezes\bin\Debug\gyorsrendezes.exe
+C:\Users\admin\source\repos\gyorsrendezes\gyorsrendezes\bin\Debug\gyorsrendezes.pdb
+C:\Users\admin\source\repos\gyorsrendezes\gyorsrendezes\obj\Debug\gyorsrendezes.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\gyorsrendezes\gyorsrendezes\obj\Debug\gyorsrendezes.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\gyorsrendezes\gyorsrendezes\obj\Debug\gyorsrendezes.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\gyorsrendezes\gyorsrendezes\obj\Debug\gyorsrendezes.exe
+C:\Users\admin\source\repos\gyorsrendezes\gyorsrendezes\obj\Debug\gyorsrendezes.pdb
