@@ -36,7 +36,12 @@ namespace SzF13_RendezesekWinForm
             this.button3 = new System.Windows.Forms.Button();
             this.GyorsIdo = new System.Windows.Forms.Label();
             this.BuborekIdo = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.Tartomany = new System.Windows.Forms.NumericUpDown();
+            this.button4 = new System.Windows.Forms.Button();
+            this.LadaIdo = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Tartomany)).BeginInit();
             this.SuspendLayout();
             // 
             // numericUpDown1
@@ -106,11 +111,59 @@ namespace SzF13_RendezesekWinForm
             this.BuborekIdo.Size = new System.Drawing.Size(0, 26);
             this.BuborekIdo.TabIndex = 6;
             // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(403, 32);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(115, 26);
+            this.label2.TabIndex = 7;
+            this.label2.Text = "Tartomány";
+            // 
+            // Tartomany
+            // 
+            this.Tartomany.Location = new System.Drawing.Point(524, 30);
+            this.Tartomany.Maximum = new decimal(new int[] {
+            2000000,
+            0,
+            0,
+            0});
+            this.Tartomany.Minimum = new decimal(new int[] {
+            1,
+            0,
+            0,
+            -2147483648});
+            this.Tartomany.Name = "Tartomany";
+            this.Tartomany.Size = new System.Drawing.Size(166, 32);
+            this.Tartomany.TabIndex = 8;
+            // 
+            // button4
+            // 
+            this.button4.Location = new System.Drawing.Point(17, 294);
+            this.button4.Name = "button4";
+            this.button4.Size = new System.Drawing.Size(187, 54);
+            this.button4.TabIndex = 9;
+            this.button4.Text = "Láda Rendezés";
+            this.button4.UseVisualStyleBackColor = true;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
+            // 
+            // LadaIdo
+            // 
+            this.LadaIdo.AutoSize = true;
+            this.LadaIdo.Location = new System.Drawing.Point(219, 309);
+            this.LadaIdo.Name = "LadaIdo";
+            this.LadaIdo.Size = new System.Drawing.Size(0, 26);
+            this.LadaIdo.TabIndex = 10;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(572, 306);
+            this.ClientSize = new System.Drawing.Size(805, 413);
+            this.Controls.Add(this.LadaIdo);
+            this.Controls.Add(this.button4);
+            this.Controls.Add(this.Tartomany);
+            this.Controls.Add(this.label2);
             this.Controls.Add(this.BuborekIdo);
             this.Controls.Add(this.GyorsIdo);
             this.Controls.Add(this.button3);
@@ -123,6 +176,7 @@ namespace SzF13_RendezesekWinForm
             this.Name = "Form1";
             this.Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Tartomany)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -137,6 +191,10 @@ namespace SzF13_RendezesekWinForm
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Label GyorsIdo;
         private System.Windows.Forms.Label BuborekIdo;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.NumericUpDown Tartomany;
+        private System.Windows.Forms.Button button4;
+        private System.Windows.Forms.Label LadaIdo;
     }
 }
 

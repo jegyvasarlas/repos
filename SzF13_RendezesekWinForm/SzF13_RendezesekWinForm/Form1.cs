@@ -16,6 +16,7 @@ namespace SzF13_RendezesekWinForm
         static Random r = new Random();
         int[] buborek;
         int[] gyors;
+        int[] lada;
 
         public Form1()
         {
@@ -26,11 +27,22 @@ namespace SzF13_RendezesekWinForm
         private void button1_Click(object sender, EventArgs e)
         {
             int elemszam = Convert.ToInt32(numericUpDown1.Value);
+            int intervallum = Convert.ToInt32(Tartomany.Value);
+
+            int min = int.MinValue;
+            int max = int.MaxValue;
+            if(intervallum != -1)
+            {
+                min = 0;
+                max = intervallum;
+            }
+
             buborek = new int[elemszam];
             gyors= new int[elemszam];
+            lada = new int[elemszam];
 
             for (int i = 0; i < elemszam; i++)
-                buborek[i] = gyors[i] = r.Next(int.MinValue, int.MaxValue);
+                buborek[i] = gyors[i] = lada[i] = r.Next(min, max);
             
         }
 
@@ -113,6 +125,39 @@ namespace SzF13_RendezesekWinForm
                         buborek[i] = buborek[j];
                         buborek[j] = tmp;
                     }
+                }
+            }
+        }
+
+        // LádaRenezés
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Stopwatch sw = new Stopwatch();
+            sw.Reset();
+
+            sw.Start();
+            LadaRendez();
+            sw.Stop();
+
+            LadaIdo.Text = sw.Elapsed.ToString();
+        }
+
+        private void LadaRendez()
+        {
+            int[] seged = new int[Convert.ToInt32(Tartomany.Value) + 1];
+
+            for(int i=0; i<lada.Length; i++)
+            {
+                seged[lada[i]]++;
+            }
+
+            int k = 0;
+            for(int i=0; i<seged.Length; i++)
+            {
+                for(int j = 0; j<seged[i]; j++)
+                {
+                    lada[k] = i;
+                    k++;
                 }
             }
         }

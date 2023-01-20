@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+C:\Users\admin\source\repos\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+C:\Users\admin\source\repos\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+C:\Users\admin\source\repos\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+C:\Users\admin\source\repos\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+C:\Users\admin\source\repos\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+C:\Users\admin\source\repos\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
