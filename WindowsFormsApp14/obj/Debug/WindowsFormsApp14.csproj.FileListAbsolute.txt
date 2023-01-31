@@ -8,3 +8,4 @@ C:\Users\admin\source\repos\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csproj
 C:\Users\admin\source\repos\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csproj.CoreCompileInputs.cache
 C:\Users\admin\source\repos\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.exe
 C:\Users\admin\source\repos\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.pdb
+C:\Users\admin\source\repos\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Form1.resources
