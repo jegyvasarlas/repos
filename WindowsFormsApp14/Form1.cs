@@ -37,46 +37,25 @@ namespace WindowsFormsApp14
                 this.Controls.Add(kepek[i]);
             }
         }
-
-        //make rotate
+        
         private void button1_Click(object sender, EventArgs e)
         {
-            PictureBox tmp = kepek[0];
+            Image tmp = kepek[0].Image;
             for (int i = 1; i < kepek.Length; i++)
             {
-                kepek[i - 1] = kepek[i];
+                kepek[i - 1].Image = kepek[i].Image;
             }
-            kepek[kepek.Length - 1] = tmp;
-            int R = 300;
-            int alpha;
-            int szog = 360 / 8;
-            for (int i = 0; i < kepek.Length; i++)
-            {
-                alpha = i * szog;
-                int x = (int)(R * Math.Cos((double)alpha / 180 * Math.PI) + ClientSize.Width / 2 - kepek[i].Width / 2);
-                int y = (int)(R * Math.Sin((double)alpha / 180 * Math.PI) + ClientSize.Height / 2 - kepek[i].Height / 2);
-                kepek[i].Location = new Point(x, y);
-            }
+            kepek[kepek.Length - 1].Image = tmp;
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            PictureBox tmp = kepek[kepek.Length - 1];
-            for (int i = kepek.Length - 2; i >= 0; i--)
+            Image tmp = kepek[kepek.Length - 1].Image;
+            for (int i = kepek.Length - 1; i > 0; i--)
             {
-                kepek[i + 1] = kepek[i];
+                kepek[i].Image = kepek[i - 1].Image;
             }
-            kepek[0] = tmp;
-            int R = 300;
-            int alpha;
-            int szog = 360 / 8;
-            for (int i = 0; i < kepek.Length; i++)
-            {
-                alpha = i * szog;
-                int x = (int)(R * Math.Cos((double)alpha / 180 * Math.PI) + ClientSize.Width / 2 - kepek[i].Width / 2);
-                int y = (int)(R * Math.Sin((double)alpha / 180 * Math.PI) + ClientSize.Height / 2 - kepek[i].Height / 2);
-                kepek[i].Location = new Point(x, y);
-            }
+            kepek[0].Image = tmp;
         }
     }
 }
