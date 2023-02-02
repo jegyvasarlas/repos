@@ -1,0 +1,12 @@
+C:\Users\admin\source\repos\Sutemeny\bin\Debug\Sutemeny.exe.config
+C:\Users\admin\source\repos\Sutemeny\bin\Debug\Sutemeny.exe
+C:\Users\admin\source\repos\Sutemeny\bin\Debug\Sutemeny.pdb
+C:\Users\admin\source\repos\Sutemeny\obj\Debug\Sutemeny.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Sutemeny\obj\Debug\Sutemeny.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\Sutemeny\obj\Debug\Sutemeny.Properties.Resources.resources
+C:\Users\admin\source\repos\Sutemeny\obj\Debug\Sutemeny.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Sutemeny\obj\Debug\Sutemeny.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Sutemeny\obj\Debug\Sutemeny.exe
+C:\Users\admin\source\repos\Sutemeny\obj\Debug\Sutemeny.pdb
+C:\Users\admin\source\repos\Sutemeny\obj\Debug\Sutemeny.Form1.resources
+C:\Users\admin\source\repos\Sutemeny\obj\Debug\Sutemeny.Arlista.resources
