@@ -67,6 +67,7 @@
             this.nevjegyToolStripMenuItem.Name = "nevjegyToolStripMenuItem";
             this.nevjegyToolStripMenuItem.Size = new System.Drawing.Size(62, 20);
             this.nevjegyToolStripMenuItem.Text = "Nevjegy";
+            this.nevjegyToolStripMenuItem.Click += new System.EventHandler(this.nevjegyToolStripMenuItem_Click);
             // 
             // pictureBox1
             // 

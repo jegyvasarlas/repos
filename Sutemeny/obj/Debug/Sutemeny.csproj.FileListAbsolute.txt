@@ -10,3 +10,4 @@ C:\Users\admin\source\repos\Sutemeny\obj\Debug\Sutemeny.exe
 C:\Users\admin\source\repos\Sutemeny\obj\Debug\Sutemeny.pdb
 C:\Users\admin\source\repos\Sutemeny\obj\Debug\Sutemeny.Form1.resources
 C:\Users\admin\source\repos\Sutemeny\obj\Debug\Sutemeny.Arlista.resources
+C:\Users\admin\source\repos\Sutemeny\obj\Debug\Sutemeny.Nevjegy.resources

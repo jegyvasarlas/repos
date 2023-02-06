@@ -31,6 +31,7 @@ namespace Sutemeny
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.label1 = new System.Windows.Forms.Label();
             this.checkBox1 = new System.Windows.Forms.CheckBox();
             this.checkBox2 = new System.Windows.Forms.CheckBox();
@@ -48,6 +49,9 @@ namespace Sutemeny
             this.label5 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
+            this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
+            this.toolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
+            this.contextMenuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // label1
@@ -70,6 +74,7 @@ namespace Sutemeny
             this.checkBox1.TabIndex = 1;
             this.checkBox1.Text = "Somlói galuska(300 Ft)\r\n";
             this.checkBox1.UseVisualStyleBackColor = true;
+            this.checkBox1.CheckStateChanged += new System.EventHandler(this.Check);
             // 
             // checkBox2
             // 
@@ -80,6 +85,7 @@ namespace Sutemeny
             this.checkBox2.TabIndex = 2;
             this.checkBox2.Text = "Rákózci túrós(280 Ft)";
             this.checkBox2.UseVisualStyleBackColor = true;
+            this.checkBox2.CheckStateChanged += new System.EventHandler(this.Check);
             // 
             // checkBox3
             // 
@@ -90,6 +96,7 @@ namespace Sutemeny
             this.checkBox3.TabIndex = 3;
             this.checkBox3.Text = "Csoki torta(350 Ft)";
             this.checkBox3.UseVisualStyleBackColor = true;
+            this.checkBox3.CheckStateChanged += new System.EventHandler(this.Check);
             // 
             // checkBox4
             // 
@@ -100,6 +107,7 @@ namespace Sutemeny
             this.checkBox4.TabIndex = 4;
             this.checkBox4.Text = "Marcipán alagút(400 Ft)";
             this.checkBox4.UseVisualStyleBackColor = true;
+            this.checkBox4.CheckStateChanged += new System.EventHandler(this.Check);
             // 
             // checkBox5
             // 
@@ -110,6 +118,7 @@ namespace Sutemeny
             this.checkBox5.TabIndex = 5;
             this.checkBox5.Text = "Eszterházy szelet(400 Ft)";
             this.checkBox5.UseVisualStyleBackColor = true;
+            this.checkBox5.CheckStateChanged += new System.EventHandler(this.Check);
             // 
             // textBox1
             // 
@@ -117,6 +126,8 @@ namespace Sutemeny
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(61, 29);
             this.textBox1.TabIndex = 6;
+            this.textBox1.Text = "0";
+            this.textBox1.Enter += new System.EventHandler(this.Enter);
             // 
             // textBox2
             // 
@@ -124,6 +135,8 @@ namespace Sutemeny
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(61, 29);
             this.textBox2.TabIndex = 7;
+            this.textBox2.Text = "0";
+            this.textBox2.Enter += new System.EventHandler(this.Enter);
             // 
             // textBox3
             // 
@@ -131,6 +144,8 @@ namespace Sutemeny
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(61, 29);
             this.textBox3.TabIndex = 8;
+            this.textBox3.Text = "0";
+            this.textBox3.Enter += new System.EventHandler(this.Enter);
             // 
             // textBox4
             // 
@@ -138,6 +153,8 @@ namespace Sutemeny
             this.textBox4.Name = "textBox4";
             this.textBox4.Size = new System.Drawing.Size(61, 29);
             this.textBox4.TabIndex = 9;
+            this.textBox4.Text = "0";
+            this.textBox4.Enter += new System.EventHandler(this.Enter);
             // 
             // textBox5
             // 
@@ -145,6 +162,8 @@ namespace Sutemeny
             this.textBox5.Name = "textBox5";
             this.textBox5.Size = new System.Drawing.Size(61, 29);
             this.textBox5.TabIndex = 10;
+            this.textBox5.Text = "0";
+            this.textBox5.Enter += new System.EventHandler(this.Enter);
             // 
             // label2
             // 
@@ -188,18 +207,33 @@ namespace Sutemeny
             // 
             // button1
             // 
+            this.button1.ContextMenuStrip = this.contextMenuStrip1;
             this.button1.Location = new System.Drawing.Point(174, 277);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(145, 41);
             this.button1.TabIndex = 16;
             this.button1.Text = "Rendel";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.MouseClick += new System.Windows.Forms.MouseEventHandler(this.button1_MouseClick);
+            // 
+            // contextMenuStrip1
+            // 
+            this.contextMenuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] { this.toolStripMenuItem1 });
+            this.contextMenuStrip1.Name = "contextMenuStrip1";
+            this.contextMenuStrip1.Size = new System.Drawing.Size(135, 26);
+            // 
+            // toolStripMenuItem1
+            // 
+            this.toolStripMenuItem1.Name = "toolStripMenuItem1";
+            this.toolStripMenuItem1.Size = new System.Drawing.Size(134, 22);
+            this.toolStripMenuItem1.Text = "Szamlat ker";
+            this.toolStripMenuItem1.Click += new System.EventHandler(this.toolStripMenuItem1_Click);
             // 
             // Arlista
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 21F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(494, 343);
+            this.ClientSize = new System.Drawing.Size(494, 328);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.label5);
@@ -223,9 +257,14 @@ namespace Sutemeny
             this.MaximizeBox = false;
             this.Name = "Arlista";
             this.Text = "Arlista";
+            this.contextMenuStrip1.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();
         }
+
+        private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem1;
+
+        private System.Windows.Forms.ContextMenuStrip contextMenuStrip1;
 
         private System.Windows.Forms.TextBox textBox2;
         private System.Windows.Forms.TextBox textBox3;

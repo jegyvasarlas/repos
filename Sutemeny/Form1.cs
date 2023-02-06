@@ -28,5 +28,11 @@ namespace Sutemeny
             Arlista arlista = new Arlista();
             arlista.Show();
         }
+
+        private void nevjegyToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Nevjegy nevjegy = new Nevjegy();
+            nevjegy.Show();
+        }
     }
 }
