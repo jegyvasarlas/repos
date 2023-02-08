@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\WindowsFormsApp18\bin\Debug\WindowsFormsApp18.exe.config
+C:\Users\admin\source\repos\WindowsFormsApp18\bin\Debug\WindowsFormsApp18.exe
+C:\Users\admin\source\repos\WindowsFormsApp18\bin\Debug\WindowsFormsApp18.pdb
+C:\Users\admin\source\repos\WindowsFormsApp18\obj\Debug\WindowsFormsApp18.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\WindowsFormsApp18\obj\Debug\WindowsFormsApp18.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\WindowsFormsApp18\obj\Debug\WindowsFormsApp18.Form1.resources
+C:\Users\admin\source\repos\WindowsFormsApp18\obj\Debug\WindowsFormsApp18.Properties.Resources.resources
+C:\Users\admin\source\repos\WindowsFormsApp18\obj\Debug\WindowsFormsApp18.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\WindowsFormsApp18\obj\Debug\WindowsFormsApp18.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\WindowsFormsApp18\obj\Debug\WindowsFormsApp18.exe
+C:\Users\admin\source\repos\WindowsFormsApp18\obj\Debug\WindowsFormsApp18.pdb
