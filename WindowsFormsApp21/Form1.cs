@@ -16,5 +16,17 @@ namespace WindowsFormsApp21
         {
             InitializeComponent();
         }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            if(comboBox1.SelectedItem == "Szoveg")
+            {
+                MessageBox.Show("Test");
+            }
+            else if (comboBox1.SelectedItem == "Hatter")
+            {
+                MessageBox.Show("Test2");
+            }
+        }
     }
 }
