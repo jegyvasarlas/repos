@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\WindowsFormsApp23\bin\Debug\WindowsFormsApp23.exe.config
+C:\Users\admin\source\repos\WindowsFormsApp23\bin\Debug\WindowsFormsApp23.exe
+C:\Users\admin\source\repos\WindowsFormsApp23\bin\Debug\WindowsFormsApp23.pdb
+C:\Users\admin\source\repos\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.Form1.resources
+C:\Users\admin\source\repos\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.Properties.Resources.resources
+C:\Users\admin\source\repos\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.exe
+C:\Users\admin\source\repos\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.pdb
