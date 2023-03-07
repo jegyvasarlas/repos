@@ -12,14 +12,30 @@ using MySql.Data.MySqlClient;
 
 namespace WindowsFormsApp24
 {
-    public partial class Form1 : Form
+    public partial class frmMain : Form
     {
-        public Form1()
+        public frmMain()
         {
             InitializeComponent();
         }
 
         private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+            frmFoglalas frmFoglalas = new frmFoglalas();
+            frmFoglalas.Show();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
         {
 
         }

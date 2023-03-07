@@ -3,7 +3,6 @@ C:\Users\admin\source\repos\WindowsFormsApp24\bin\Debug\WindowsFormsApp24.exe
 C:\Users\admin\source\repos\WindowsFormsApp24\bin\Debug\WindowsFormsApp24.pdb
 C:\Users\admin\source\repos\WindowsFormsApp24\obj\Debug\WindowsFormsApp24.csproj.AssemblyReference.cache
 C:\Users\admin\source\repos\WindowsFormsApp24\obj\Debug\WindowsFormsApp24.csproj.SuggestedBindingRedirects.cache
-C:\Users\admin\source\repos\WindowsFormsApp24\obj\Debug\WindowsFormsApp24.Form1.resources
 C:\Users\admin\source\repos\WindowsFormsApp24\obj\Debug\WindowsFormsApp24.Properties.Resources.resources
 C:\Users\admin\source\repos\WindowsFormsApp24\obj\Debug\WindowsFormsApp24.csproj.GenerateResource.cache
 C:\Users\admin\source\repos\WindowsFormsApp24\obj\Debug\WindowsFormsApp24.csproj.CoreCompileInputs.cache
@@ -21,3 +20,5 @@ C:\Users\admin\source\repos\WindowsFormsApp24\bin\Debug\K4os.Hash.xxHash.dll
 C:\Users\admin\source\repos\WindowsFormsApp24\bin\Debug\MySql.Data.xml
 C:\Users\admin\source\repos\WindowsFormsApp24\obj\Debug\WindowsFormsApp24.exe.config
 C:\Users\admin\source\repos\WindowsFormsApp24\obj\Debug\WindowsFormsApp24.csproj.CopyComplete
+C:\Users\admin\source\repos\WindowsFormsApp24\obj\Debug\WindowsFormsApp24.frmMain.resources
+C:\Users\admin\source\repos\WindowsFormsApp24\obj\Debug\WindowsFormsApp24.frmFoglalas.resources

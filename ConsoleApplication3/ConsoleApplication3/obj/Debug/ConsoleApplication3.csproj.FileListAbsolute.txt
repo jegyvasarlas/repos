@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\admin\source\repos\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\admin\source\repos\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\admin\source\repos\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
