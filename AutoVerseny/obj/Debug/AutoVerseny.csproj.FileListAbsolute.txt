@@ -1,0 +1,8 @@
+C:\Users\admin\source\repos\AutoVerseny\bin\Debug\AutoVerseny.exe.config
+C:\Users\admin\source\repos\AutoVerseny\bin\Debug\AutoVerseny.exe
+C:\Users\admin\source\repos\AutoVerseny\bin\Debug\AutoVerseny.pdb
+C:\Users\admin\source\repos\AutoVerseny\obj\Debug\AutoVerseny.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\AutoVerseny\obj\Debug\AutoVerseny.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\AutoVerseny\obj\Debug\AutoVerseny.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\AutoVerseny\obj\Debug\AutoVerseny.exe
+C:\Users\admin\source\repos\AutoVerseny\obj\Debug\AutoVerseny.pdb
