@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\Mar24Feladat1\bin\Debug\Mar24Feladat1.exe.config
+C:\Users\admin\source\repos\Mar24Feladat1\bin\Debug\Mar24Feladat1.exe
+C:\Users\admin\source\repos\Mar24Feladat1\bin\Debug\Mar24Feladat1.pdb
+C:\Users\admin\source\repos\Mar24Feladat1\obj\Debug\Mar24Feladat1.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Mar24Feladat1\obj\Debug\Mar24Feladat1.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\Mar24Feladat1\obj\Debug\Mar24Feladat1.Properties.Resources.resources
+C:\Users\admin\source\repos\Mar24Feladat1\obj\Debug\Mar24Feladat1.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Mar24Feladat1\obj\Debug\Mar24Feladat1.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Mar24Feladat1\obj\Debug\Mar24Feladat1.exe
+C:\Users\admin\source\repos\Mar24Feladat1\obj\Debug\Mar24Feladat1.pdb
+C:\Users\admin\source\repos\Mar24Feladat1\obj\Debug\Mar24Feladatok.Form1.resources
