@@ -22,3 +22,4 @@ C:\Users\admin\source\repos\Formula1\obj\Debug\Formula1.csproj.CoreCompileInputs
 C:\Users\admin\source\repos\Formula1\obj\Debug\Formula1.csproj.CopyComplete
 C:\Users\admin\source\repos\Formula1\obj\Debug\Formula1.exe
 C:\Users\admin\source\repos\Formula1\obj\Debug\Formula1.pdb
+C:\Users\admin\source\repos\Formula1\obj\Debug\Formula1.UjVersenyzo.resources

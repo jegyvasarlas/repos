@@ -39,13 +39,13 @@
             // 
             // label1
             // 
-            this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Segoe UI", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(127, 21);
+            this.label1.Location = new System.Drawing.Point(17, 21);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(451, 45);
+            this.label1.Size = new System.Drawing.Size(923, 45);
             this.label1.TabIndex = 0;
             this.label1.Text = "2022-ben atigazolt versenyzok";
+            this.label1.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             // 
             // dataGridView1
             // 
@@ -63,7 +63,7 @@
             this.dataGridView1.Location = new System.Drawing.Point(17, 88);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.ReadOnly = true;
-            this.dataGridView1.Size = new System.Drawing.Size(686, 398);
+            this.dataGridView1.Size = new System.Drawing.Size(923, 553);
             this.dataGridView1.TabIndex = 1;
             // 
             // Nev
@@ -99,10 +99,9 @@
             this.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "AtigazoltVersenyzok";
-            this.Size = new System.Drawing.Size(725, 503);
+            this.Size = new System.Drawing.Size(958, 663);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 

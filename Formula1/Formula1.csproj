@@ -62,6 +62,12 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UjVersenyzo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UjVersenyzo.Designer.cs">
+      <DependentUpon>UjVersenyzo.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="AtigazoltVersenyzok.resx">
       <DependentUpon>AtigazoltVersenyzok.cs</DependentUpon>
     </EmbeddedResource>
@@ -78,6 +84,9 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="UjVersenyzo.resx">
+      <DependentUpon>UjVersenyzo.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

@@ -23,6 +23,7 @@ namespace Formula1
             {
                 pictureBox1.Visible = false;
                 atigazoltVersenyzok1.Visible = true;
+                ujVersenyzo1.Visible = false;
                 try
                 {
                     atigazoltVersenyzok1.Megjelenit();
@@ -43,6 +44,21 @@ namespace Formula1
         private void kilepesToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Application.Exit();
+        }
+
+        private void ujVersenyzoFelvetelToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            if (ujVersenyzo1.Visible == false)
+            {
+                pictureBox1.Visible = false;
+                atigazoltVersenyzok1.Visible = false;
+                ujVersenyzo1.Visible = true;
+            }
+            else
+            {
+                pictureBox1.Visible = true;
+                ujVersenyzo1.Visible = false;
+            }
         }
     }
 }
