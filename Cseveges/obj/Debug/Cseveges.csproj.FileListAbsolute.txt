@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\Cseveges\bin\Debug\Cseveges.exe
+C:\Users\admin\source\repos\Cseveges\bin\Debug\Cseveges.pdb
+C:\Users\admin\source\repos\Cseveges\obj\Debug\Cseveges.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Cseveges\obj\Debug\Cseveges.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\Cseveges\obj\Debug\Cseveges.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Cseveges\obj\Debug\Cseveges.exe
+C:\Users\admin\source\repos\Cseveges\obj\Debug\Cseveges.pdb
