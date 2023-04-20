@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\futoverseny2\bin\Debug\futoverseny2.exe.config
+C:\Users\admin\source\repos\futoverseny2\bin\Debug\futoverseny2.exe
+C:\Users\admin\source\repos\futoverseny2\bin\Debug\futoverseny2.pdb
+C:\Users\admin\source\repos\futoverseny2\obj\Debug\futoverseny2.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\futoverseny2\obj\Debug\futoverseny2.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\futoverseny2\obj\Debug\futoverseny2.Form1.resources
+C:\Users\admin\source\repos\futoverseny2\obj\Debug\futoverseny2.Properties.Resources.resources
+C:\Users\admin\source\repos\futoverseny2\obj\Debug\futoverseny2.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\futoverseny2\obj\Debug\futoverseny2.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\futoverseny2\obj\Debug\futoverseny2.exe
+C:\Users\admin\source\repos\futoverseny2\obj\Debug\futoverseny2.pdb

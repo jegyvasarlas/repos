@@ -77,7 +77,6 @@
             0,
             0,
             0});
-            this.rajtszamInput.ValueChanged += new System.EventHandler(this.rajtszamInput_ValueChanged);
             // 
             // label2
             // 

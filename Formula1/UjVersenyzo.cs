@@ -70,10 +70,5 @@ namespace Formula1
                 siker.Text = "Nem sikerult";
             }
         }
-
-        private void rajtszamInput_ValueChanged(object sender, EventArgs e)
-        {
-            
-        }      
     }
 }
