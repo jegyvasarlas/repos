@@ -64,6 +64,8 @@ namespace Cseveges
             Console.WriteLine($"\tKezdete: {maxCsendKezdete.ToString("yy.MM.dd-HH:mm:ss")}");
             Console.WriteLine($"\tVége:    {maxCsendVege.ToString("yy.MM.dd-HH:mm:ss")}");
             Console.WriteLine($"\tHossza:  {maxCsendHossz}");
+
+            Console.ReadKey();
         }
     }
 

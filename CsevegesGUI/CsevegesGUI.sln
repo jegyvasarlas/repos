@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsevegesGUI", "CsevegesGUI.csproj", "{A41CEA2F-1AEA-4176-8E11-B6BFB6FB8BED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A41CEA2F-1AEA-4176-8E11-B6BFB6FB8BED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A41CEA2F-1AEA-4176-8E11-B6BFB6FB8BED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A41CEA2F-1AEA-4176-8E11-B6BFB6FB8BED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A41CEA2F-1AEA-4176-8E11-B6BFB6FB8BED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F7AA7DF-9FB9-4011-BBC6-A80F8E093CD6}
+	EndGlobalSection
+EndGlobal

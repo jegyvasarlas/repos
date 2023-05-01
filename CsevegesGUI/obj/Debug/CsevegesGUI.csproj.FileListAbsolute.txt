@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\CsevegesGUI\bin\Debug\CsevegesGUI.exe.config
+C:\Users\admin\source\repos\CsevegesGUI\bin\Debug\CsevegesGUI.exe
+C:\Users\admin\source\repos\CsevegesGUI\bin\Debug\CsevegesGUI.pdb
+C:\Users\admin\source\repos\CsevegesGUI\obj\Debug\CsevegesGUI.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\CsevegesGUI\obj\Debug\CsevegesGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\CsevegesGUI\obj\Debug\CsevegesGUI.Form1.resources
+C:\Users\admin\source\repos\CsevegesGUI\obj\Debug\CsevegesGUI.Properties.Resources.resources
+C:\Users\admin\source\repos\CsevegesGUI\obj\Debug\CsevegesGUI.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\CsevegesGUI\obj\Debug\CsevegesGUI.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CsevegesGUI\obj\Debug\CsevegesGUI.exe
+C:\Users\admin\source\repos\CsevegesGUI\obj\Debug\CsevegesGUI.pdb
