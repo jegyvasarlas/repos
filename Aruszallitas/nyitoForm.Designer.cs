@@ -34,8 +34,9 @@
             this.statisztikákToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.kilépésToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.budapestrolIndultUtakUserControl1 = new Aruszallitas.budapestrolIndultUtakUserControl();
+            this.statisztikakUserControl1 = new Aruszallitas.statisztikakUserControl();
             this.ujUtFelveteleUserControl1 = new Aruszallitas.ujUtFelveteleUserControl();
+            this.budapestrolIndultUtakUserControl1 = new Aruszallitas.budapestrolIndultUtakUserControl();
             this.menuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -92,16 +93,16 @@
             this.pictureBox1.TabIndex = 1;
             this.pictureBox1.TabStop = false;
             // 
-            // budapestrolIndultUtakUserControl1
+            // statisztikakUserControl1
             // 
-            this.budapestrolIndultUtakUserControl1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.budapestrolIndultUtakUserControl1.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.budapestrolIndultUtakUserControl1.Location = new System.Drawing.Point(0, 24);
-            this.budapestrolIndultUtakUserControl1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.budapestrolIndultUtakUserControl1.Name = "budapestrolIndultUtakUserControl1";
-            this.budapestrolIndultUtakUserControl1.Size = new System.Drawing.Size(787, 466);
-            this.budapestrolIndultUtakUserControl1.TabIndex = 2;
-            this.budapestrolIndultUtakUserControl1.Visible = false;
+            this.statisztikakUserControl1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.statisztikakUserControl1.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.statisztikakUserControl1.Location = new System.Drawing.Point(0, 24);
+            this.statisztikakUserControl1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.statisztikakUserControl1.Name = "statisztikakUserControl1";
+            this.statisztikakUserControl1.Size = new System.Drawing.Size(787, 466);
+            this.statisztikakUserControl1.TabIndex = 4;
+            this.statisztikakUserControl1.Visible = false;
             // 
             // ujUtFelveteleUserControl1
             // 
@@ -114,11 +115,23 @@
             this.ujUtFelveteleUserControl1.TabIndex = 3;
             this.ujUtFelveteleUserControl1.Visible = false;
             // 
+            // budapestrolIndultUtakUserControl1
+            // 
+            this.budapestrolIndultUtakUserControl1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.budapestrolIndultUtakUserControl1.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.budapestrolIndultUtakUserControl1.Location = new System.Drawing.Point(0, 24);
+            this.budapestrolIndultUtakUserControl1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.budapestrolIndultUtakUserControl1.Name = "budapestrolIndultUtakUserControl1";
+            this.budapestrolIndultUtakUserControl1.Size = new System.Drawing.Size(787, 466);
+            this.budapestrolIndultUtakUserControl1.TabIndex = 2;
+            this.budapestrolIndultUtakUserControl1.Visible = false;
+            // 
             // nyitoForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 21F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(787, 490);
+            this.Controls.Add(this.statisztikakUserControl1);
             this.Controls.Add(this.ujUtFelveteleUserControl1);
             this.Controls.Add(this.budapestrolIndultUtakUserControl1);
             this.Controls.Add(this.pictureBox1);
@@ -147,6 +160,7 @@
         private System.Windows.Forms.PictureBox pictureBox1;
         private budapestrolIndultUtakUserControl budapestrolIndultUtakUserControl1;
         private ujUtFelveteleUserControl ujUtFelveteleUserControl1;
+        private statisztikakUserControl statisztikakUserControl1;
     }
 }
 

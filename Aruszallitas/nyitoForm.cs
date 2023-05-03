@@ -16,6 +16,7 @@ namespace Aruszallitas
             {
                 budapestrolIndultUtakUserControl1.Visible = true;
                 ujUtFelveteleUserControl1.Visible = false;
+                statisztikakUserControl1.Visible = false;
             } 
             else
             {
@@ -29,6 +30,7 @@ namespace Aruszallitas
             {
                 ujUtFelveteleUserControl1.Visible = true;
                 budapestrolIndultUtakUserControl1.Visible = false;
+                statisztikakUserControl1.Visible = false;
             }
             else
             {
@@ -38,7 +40,16 @@ namespace Aruszallitas
 
         private void statisztikákToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            if (statisztikakUserControl1.Visible == false)
+            {
+                statisztikakUserControl1.Visible = true;
+                budapestrolIndultUtakUserControl1.Visible = false;
+                ujUtFelveteleUserControl1.Visible = false;
+            }
+            else
+            {
+                statisztikakUserControl1.Visible = false;
+            }
         }
 
         private void kilépésToolStripMenuItem_Click(object sender, EventArgs e)
